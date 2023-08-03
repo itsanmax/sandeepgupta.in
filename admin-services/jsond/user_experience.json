@@ -1,0 +1,31 @@
+{
+	"id": 1,
+	"total_experience": "10+",
+	"exp_details": [{
+		"id": 1,
+		"start_date": "",
+		"end_date": "",
+		"company_name": "",
+		"company_url": "",
+		"company_logo_url": "",
+		"designations": "",
+		"skills": "",
+		"projects": [{
+			"id": 1,
+			"name": "",
+			"live_url": "",
+			"start_date": "",
+			"end_date": "",
+			"skills_used": "",
+			"tools_used": ""
+		}, {
+			"id": 2,
+			"name": "",
+			"live_url": "",
+			"start_date": "",
+			"end_date": "",
+			"skills_used": "",
+			"tools_used": ""
+		}]
+	}]
+}

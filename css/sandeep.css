@@ -1,0 +1,174 @@
+body {
+    background: #fff;
+    text-align: center;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #888;
+    font-size: 12px;
+}
+
+.violet { color: #9d426b; }
+
+a {
+    color: #9d426b;
+    text-decoration: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+}
+
+a:hover { color: #888; text-decoration: none; }
+
+strong { font-weight: bold; }
+
+
+/* ----- Header ----- */
+
+.header .navbar {
+    margin-bottom: 0;
+}
+
+.header .navbar.home-nav {
+	border-bottom: 1px solid;
+}
+
+.header .navbar-inner {
+    background: #fff;
+    border: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.header ul.nav {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.header ul.nav li a {
+    padding: 30px 20px 10px 20px;
+    color: #5d5d5d;
+    text-shadow: none;
+}
+
+.header ul.nav li.current-page a {
+    padding-top: 25px;
+    border-top: 5px solid #9d426b;
+    background: #f8f8f8;
+}
+
+.header ul.nav li a:hover {
+    background: #9d426b;
+    color: #fff;
+}
+
+.header ul.nav li a i {
+    line-height: 35px;
+    color: #aaa;
+}
+
+.header ul.nav li a:hover i { color: #fff; }
+
+
+.header .logo {
+	width: auto;
+	padding: 0px 5px 0px 5px;
+	margin: 5px 5px 5px 5px;
+}
+
+.header p.name-logo {
+	float: left;
+	margin: 10px 0 0;
+	padding: 20px 0 0;
+	text-align: left;
+	font: normal normal bold 42px/1.2em 'Noticia Text', serif;
+	color: white;
+	margin-bottom: 5px;
+	text-shadow: 5px 5px 5px rgb(228, 219, 219);
+}
+
+.header p.logo-b {
+	font: normal normal normal 20px/1.2em 'Noticia Text', serif;
+	text-shadow: 3px 3px 3px rgb(162, 132, 132);
+}
+
+.header p.logo-b a {
+	color: rgb(60, 18, 2);
+}
+
+p.intro {
+	line-height: 25px;
+}
+/* ----- Presentation ----- */
+
+.presentation {
+    margin-top: 30px;
+}
+
+.presentation h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: #5d5d5d;
+}
+
+.presentation p {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.presentation img {
+	box-shadow: 0 0 40px black;
+	margin: 30px 20px 10px 15px;
+}
+
+.resume {
+	text-align: left;
+	font-size: 15px;
+	font-style: italic;
+	padding: 20px 0 0 10px;
+	margin: 10px 15px 0 45px;
+}
+/*
+.resume .row-fluid {
+	padding: 5px 0 10px 0;
+	border-bottom: 1px solid #9d426b;
+}
+*/
+.portfolio-page .row {
+	padding: 10px 5px 5px 10px;
+	marging-top: 10px;
+	border-top: 1px dotted #9d426b;
+}
+
+.portfolio-page a.thumbnail:hover {border-color: #9d426b;}
+
+.portfolio-page .span4 {
+	text-align: left;
+	font-size: 15px;
+}
+.portfolio-page .p-detail {
+	text-align: left;
+	font-size: 15px;
+	padding: 10px 0 10px 10px;
+	margin: 10px;
+}
+
+.portfolio.home-work .portfolio-title h3 {
+	width: 220px;
+}
+
+.portfolio.home-work .row {
+	margin-bottom: 20px;
+}
+
+footer .left {
+	margin-top: 15px;
+	text-align: left;
+}
+
+.portfolio.home-work .span3 p {
+	min-height: 100px;
+}

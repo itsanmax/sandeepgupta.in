@@ -1,0 +1,18 @@
+{
+	"id": 1,
+	"name": "Sandeep Gupta",
+	"bio_head": "Hello, thanks for taking time to visit...",
+	"bio_details": "I'm a web developer, developed many of the dynamic websites with latest web technologies like Angular JS, JavaScript, Ajax, JQuery, HTML5, CSS3, E-commerce, LAMP, MEAN, Open Source APIs like Facebook, Google, Twitter and a lot...",
+	"current_designation": "Technical Lead",
+	"yoe": "10+",
+	"pic_url": "http://sandeepgupta.in/img/sandeep_pic1.jpg",
+	"ofc_address": "Times Internet, Noida, U.P, India",
+	"home_address": "Jainamore, Bokaro, Jharkhand, India",
+	"mobile_number": "7838208901",
+	"email_id": "sandeep.guddu@gmail.com",
+	"skype_id": "sandeep.guddu",
+	"created_on": "",
+	"updated_on": "",
+	"status": 1
+
+}
